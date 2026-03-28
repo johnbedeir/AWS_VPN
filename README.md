@@ -1,4 +1,6 @@
-# AWS VPN + Private EC2 (Terraform)
+# AWS VPN + Private EC2 with Terraform
+
+<img src=imgs/aws-vpn.png>
 
 ## Goal
 
